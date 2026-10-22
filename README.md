@@ -243,6 +243,4 @@ MSc Data Science — University of Naples Federico II
 
 GitHub: https://github.com/ideepkush
 
----
 
-*This project was developed as a hands-on exploration of multi-agent systems, tool integration, and automated research workflows.*
